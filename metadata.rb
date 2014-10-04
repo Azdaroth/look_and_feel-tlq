@@ -7,5 +7,3 @@ version           "0.0.4"
 recipe "look_and_feel-tlq", "Adds visual flag to production environment as well as htop, vim and zip, also allows for the installation of additional locales"
 
 supports "ubuntu"
-
-depends "locales"
